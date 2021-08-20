@@ -11,8 +11,12 @@ const photoBooth = (function () {
         webcamConstraints = {
             audio: false,
             video: {
-                width: config.preview.videoWidth,
-                height: config.preview.videoHeight,
+                width: {
+                    ideal: config.preview.videoWidth
+                },
+                height: {
+                    ideal: config.preview.videoHeight
+                },
                 facingMode: config.preview.camera_mode
             }
         },
