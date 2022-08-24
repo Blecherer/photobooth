@@ -1,5 +1,11 @@
 # Photobooth v3
 
+
+## !!!
+## SOURCE MOVED TO [https://github.com/PhotoboothProject/photobooth](https://github.com/PhotoboothProject/photobooth)
+## MORE INFORMATION ON [https://photoboothproject.github.io/](https://photoboothproject.github.io/)
+## !!!
+
 A Photobooth web interface for Linux and Windows.
 
 Photobooth was initially developped by Andre Rinas to use on a Raspberry Pi, you can find his source [here](https://github.com/andreknieriem/photobooth).
